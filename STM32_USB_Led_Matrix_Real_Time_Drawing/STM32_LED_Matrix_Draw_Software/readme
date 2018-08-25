@@ -1,0 +1,6 @@
+
+
+sudo apt install qtcreator
+sudo apt install qt5-default
+sudo apt install qt5-qmake
+sudo apt install libqt5serialport5-dev
